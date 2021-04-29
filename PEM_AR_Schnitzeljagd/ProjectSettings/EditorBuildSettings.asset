@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainscreen.unity
+    guid: e7cdeb5f104f8384082386f583384aab
+  - enabled: 0
+    path: Assets/Scenes/Dialogues.unity
+    guid: 553008e6c4c9fb948b01241010cbad7f
+  - enabled: 0
+    path: Assets/Scenes/Test_ModelRecognition.unity
+    guid: e3c2a95c6b1aade429f99274878a4e58
+  - enabled: 0
+    path: Assets/Scenes/PortalInteraction.unity
+    guid: ca43e8e064d55574aac72e88e55d0913
+  - enabled: 0
+    path: Assets/Scenes/Compass.unity
+    guid: a21f0b53e072d744b8fc8e48831ce719
+  - enabled: 0
+    path: Assets/Scenes/Test_Fire.unity
+    guid: cfafa466d6a1bd24f8713afcfd5d1577
+  - enabled: 0
+    path: Assets/Scenes/Test_Inventory.unity
+    guid: a3db03e869f098a4e8a4e1d023f5db4e
+  - enabled: 0
+    path: Assets/Scenes/Interaction_Tower_Rebuild.unity
+    guid: dc8acc72b71bc664da8472b882230320
+  - enabled: 0
+    path: Assets/Scenes/PortalInteraction.unity
+    guid: ca43e8e064d55574aac72e88e55d0913
+  - enabled: 0
+    path: Assets/Scenes/Compass.unity
+    guid: a21f0b53e072d744b8fc8e48831ce719
+  - enabled: 0
+    path: Assets/Scenes/Interaction_Rebuild_2.unity
+    guid: cae3485901fed1648b7a8cd2a7c002bd
+  - enabled: 0
+    path: Assets/Scenes/Interaction_Fire_Extinguish.unity
+    guid: c7639171e9efb5e40bf1810c603e254b
+  - enabled: 0
+    path: Assets/Scenes/Dialogues.unity
+    guid: 553008e6c4c9fb948b01241010cbad7f
+  - enabled: 0
+    path: Assets/Scenes/Interaction_Rebuild_2.unity
+    guid: cae3485901fed1648b7a8cd2a7c002bd
+  m_configObjects: {}

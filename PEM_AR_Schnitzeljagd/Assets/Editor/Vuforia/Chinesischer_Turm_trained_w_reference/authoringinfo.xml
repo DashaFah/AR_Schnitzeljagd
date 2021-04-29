@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.2.7">
+<ModelTarget name="chinesischer_turm_with_reference" targetId="00a9f72e90704e8dbecd444966379f23" version="11.1" toolVersion="9.2.7" bbox="-25.599998 0.000000 -10.258474 10.258469 31.300392 10.258470" previewImage="00a9f72e90704e8dbecd444966379f23_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="chinesischer_turm_with_references_assembly" assemblyId="e325c942bcc84280892929229e70fd34">
+<Part name="chinesischer_turm_with_reference" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.194878 10.2853 72.8125" rotation="AD: 1 0.00008555082126384685 -0.000027092735377897994 215.145" image="chinesischer_turm_with_reference_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

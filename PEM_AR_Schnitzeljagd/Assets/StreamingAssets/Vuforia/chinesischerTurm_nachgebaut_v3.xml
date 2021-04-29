@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="chinesischerTurm_nachgebaut_v3" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="chinesischerTurm_nachgebaut_v3s_assembly" assemblyId="6922e67935684f6e8827c50337f92106">
+<Part name="chinesischerTurm_nachgebaut_v3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-1.56108e-08 0.153904 0.578102" rotation="AD: 0.9998919659264589 0.03825429323881743 -0.4181862582271364 189.642" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
